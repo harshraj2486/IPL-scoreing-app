@@ -1,1 +1,2 @@
-# IPL-scoreing-app
+# ipl-aplication
+Created with CodeSandbox
